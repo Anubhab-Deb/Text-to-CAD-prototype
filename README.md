@@ -22,6 +22,8 @@ Both pipelines share a common data extraction backend (Phase 1) and output stand
 
 ---
 
+## **Phases of Project**
+
 ### 🔷 Phase 1 – Shared Data Pipeline
 
 | File | Role |
